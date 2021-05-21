@@ -1,0 +1,15 @@
+
+.title-app{
+    color: #3490dc;
+    text-align: center;
+    text-transform: uppercase;
+   font-size: 4rem;
+}
+.icon-color{
+    color: #3490dc;
+    font-size: 3rem;
+}
+
+.icon-color:hover{
+    color: purple;
+}
